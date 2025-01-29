@@ -26,4 +26,4 @@ Data Storytelling: Presenting findings effectively through visualization.
 
 📌 Learn More
 
-For more details, visit the TDSP Webpage.
+For more details, visit the TDSP Webpage: https://nebigdatahub.org/nsdc/tdsp/
